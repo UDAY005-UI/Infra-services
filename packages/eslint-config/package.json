@@ -6,6 +6,15 @@
   "exports": {
     "./base-js": "./base.js",
     "./node-js": "./node.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-only-warn": "^1.1.0",
+    "eslint-plugin-turbo": "^2.7.3",
+    "globals": "^17.0.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.52.0"
   }
-
 }
